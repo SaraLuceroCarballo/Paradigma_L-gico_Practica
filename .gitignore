@@ -1,0 +1,6 @@
+# SWI-Prolog
+*.qlf
+
+# OS
+.DS_Store
+Thumbs.db
