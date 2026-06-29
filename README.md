@@ -32,10 +32,10 @@ Cada carpeta es un ejercicio independiente dado por la cátedra. Adentro encontr
 | # | Nombre | Tipo | Estado |
 |---|-------------|------|--------|
 | [01](./Logial/README.md) | *Logial* | 📖 Práctica guiada | 🔲 Sin resolver |
-| [02](./Pokemon_Logico/README.md) | *Pokémon lógico** | 🏋️ Práctica autónoma | 🔲 Sin resolver |
+| [02](./Pokemon_Logico/README.md) | *Pokémon lógico* | 🏋️ Práctica autónoma | 🔲 Sin resolver |
 | 03 | *My Little Prolony* | 🏋️ Práctica autónoma | ✅ Resuelto |
 | [04](./League%20of%20Logics/README.md) | *League of Logics* |📖 Práctica guiada | 🔲 Sin resolver |
-| 05 | *Dota* |*pendiente*| 🏋️ Práctica autónoma | 🟡 En progreso |
+| 05 | *Dota* | 🏋️ Práctica autónoma | 🟡 En progreso |
 | 06 | *Expreso Lógico* | 📖 Práctica guiada | 🔲 Sin resolver |
 | [07](./The_Dundies/README.md) | *The Dundies* | 🏋️ Práctica autónoma | 🔲 Sin resolver |
 
